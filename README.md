@@ -16,8 +16,7 @@
 
 ⛓ I’m currently in school learning the foundations of web development
 
-
-
+⛓ languages I know HTML, CSS, JavaScript, React.js, Node.js(currently learning)
 
 ⛓ ✉ How to reach me ...<Mayaangelou19@yahoo.com>
 
