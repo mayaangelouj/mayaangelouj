@@ -16,7 +16,7 @@
 
 ⛓ I’m currently in school learning the foundations of web development
 
-⛓ languages I know HTML, CSS, JavaScript, React.js, Node.js(currently learning)
+⛓ Things I've learned so far HTML, CSS, JavaScript, React.js, Node.js,C#, MVC apps, SQL, Blazor apps, Data structures,Dotnet, WebAPI, Azure,Mongodb/ATLAS
 
 ⛓ ✉ How to reach me ...<Mayaangelou19@yahoo.com>
 
